@@ -7,7 +7,7 @@
     <application
         android:theme="@style/AppTheme"
         android:label="YB Calcy"
-        android:icon="@drawable/app_icon"
+        android:icon="@drawable/yb_calcy_icon"
         android:allowBackup="false"
         android:supportsRtl="true">
 
